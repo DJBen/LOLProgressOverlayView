@@ -1,7 +1,7 @@
 LOLProgressOverlayView
 ======================
 
-Add a League of Legends style progress indicator overlay on any of your UIViews in single line of code!
+UIButton / UIView category that add a League of Legends style progress indicator overlay simply in single line of code.
 
 Usage
 ----------------------
