@@ -7,7 +7,7 @@ UIButton / UIView category that add a progress indicator overlay simply with sin
 
 ## Usage
 
-To run the example project; clone the repo, and run `pod install` from the Project directory first.
+To run the example project; clone the repo, and run `pod install` from the Project directory first, or simply import `LOLProgressOverlayView.h` and `.m` file into your project.
 
 Say you have a button or a view, just type single line of code
 
@@ -44,3 +44,4 @@ DJ.Ben, lsh32768@gmail.com
 ## License
 
 LOLProgressOverlayView is available under the MIT license. See the LICENSE file for more info.
+
